@@ -16,20 +16,20 @@
 
 ---
 [Analysis of L-Train shutdown effect on Citibike trips in North Brooklyn](https://www.authorea.com/343291/WvCJMi1pNDL6i1gUT_rstw)
-<img src="https://raw.githubusercontent.com/mv1742/NLP_Twitter_Sentiment/master/Extra_Credit_mv1742/Trains.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/mv1742/NLP_Twitter_Sentiment/master/Extra_Credit_mv1742/Trains.png"/>
 
 ---
 [Citibike usage rebalancing analysis: clustering of stations to solve bike imbalance](https://github.com/mv1742/CitiBike_Usage_Analysis)
-<img src="https://raw.githubusercontent.com/mv1742/CitiBike_Usage_Analysis/blob/master/Visualizations/empty.gif?raw=true"/>
+<img src="https://raw.githubusercontent.com/mv1742/CitiBike_Usage_Analysis/blob/master/Visualizations/empty.gif"/>
 
 [Street signs and yellow taxi count and predictions using Computer-Vision image recognition](https://github.com/Streets-Data-Collaborative/groundwork-detection)
-<img srchttps://raw.githubusercontent.com/mv1742/groundwork-detection/blob/master/Taxis.jpeg?raw=true"/>
+<img srchttps://raw.githubusercontent.com/mv1742/groundwork-detection/blob/master/Taxis.jpeg"/>
 
 ### Urban Engineering
 
 [Geotech Police](https://github.com/mv1742/Geo_Police/)
 
-<img src="https://raw.githubusercontent.com/mv1742/Geo_Police/blob/master/Images/Soldata.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/mv1742/Geo_Police/blob/master/Images/Soldata.jpg"/>
 
 ---
 ### Data Engineering
