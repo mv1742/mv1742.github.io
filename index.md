@@ -3,7 +3,7 @@
 ### Data Engineering
 
 [Insight Project](https://github.com/mv1742/Wiki_Bias/)
-<img src= "https://github.com/mv1742/Wiki_Bias/blob/master/figs/Pipeline.png">
+<img src= "https://github.com/mv1742/Wiki_Bias/blob/master/figs/Pipeline.png" height="600">
            
 ---
 
