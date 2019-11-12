@@ -10,7 +10,7 @@
 ---
 
 [Analysis of L-Train shutdown effect on Citibike trips in North Brooklyn](https://www.authorea.com/343291/WvCJMi1pNDL6i1gUT_rstw)
-<img src="https://raw.githubusercontent.com/mv1742/NLP_Twitter_Sentiment/master/Extra_Credit_mv1742/Trains.png"/>
+<img src="https://raw.githubusercontent.com/mv1742/PUI2018_mv1742/master/Extra_Credit_mv1742/Trains.png"/>
 
 ---
 
@@ -39,7 +39,7 @@
 
 [Geotech Police](https://github.com/mv1742/Geo_Police/)
 
-<img src="https://raw.githubusercontent.com/mv1742/Geo_Police/master/Images/Soldata.jpg"/>
+<img src="https://raw.githubusercontent.com/mv1742/GeoPolice/master/Images/Soldata.jpg"/>
 
 ---
 ### Data Engineering
