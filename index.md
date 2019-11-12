@@ -44,7 +44,7 @@
 
 [Geotech Police](https://github.com/mv1742/Geo_Police/)
 
-<img src= "https://raw.githubusercontent.com/mv1742/GeoPolice/master/Images/Soldata.jpg"/>
+<img src= "https://raw.githubusercontent.com/mv1742/GeoPolice/master/Images/Soldata.jpg">
 
 ---
 
