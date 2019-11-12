@@ -44,7 +44,7 @@
 
 [Geotech Police](https://github.com/mv1742/Geo_Police/)
 
-<img src= "https://raw.githubusercontent.com/mv1742/Geo_Police/master/Images/Maxwell.jpg">
+<img src= "https://raw.githubusercontent.com/mv1742/Geo_Police/master/Images/Maxwell.jpg?token=AKJ62NA6KPF6M74KE7CAMQS5ZMICM">
 
 ---
 
