@@ -4,7 +4,7 @@
 
 [Insight Data Engineering Project](https://github.com/mv1742/Wiki_Bias/)
 
-<img src= "https://github.com/mv1742/Wiki_Bias/master/figs/Pipeline.png" height="200">
+<img src= "https://raw.githubusercontent.com/mv1742/Wiki_Bias/master/figs/Pipeline.png" height="200">
            
 ---
 
