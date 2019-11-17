@@ -51,5 +51,5 @@
 
 [Geotech Police](https://github.com/mv1742/Geo_Police/)
 
-<img src= "https://raw.githubusercontent.com/mv1742/Geo_Police/master/Images/Maxwell.jpg?token=AKJ62ND6HPT5JXSAQ6H7C6C5ZMI5E">
+<img src= "https://raw.githubusercontent.com/mv1742/GEOPolice/master/Figs/GeoPolice.png">
 
