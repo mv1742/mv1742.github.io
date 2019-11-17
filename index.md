@@ -36,7 +36,7 @@
 
 [Deep learning sentiment analysis of ethnic groups through Twitter](https://www.overleaf.com/read/yhvvshpgcsbk)
 
-<img src="https://github.com/mv1742/NLP_Twitter_Sentiment/blob/master/plots/Moving_Average.png?raw=true" height="400">
+<img src="https://github.com/mv1742/NLP_Twitter_Sentiment/blob/master/plots/Moving_Average.png?raw=true" width="550" height="350">
 
 ---
 
