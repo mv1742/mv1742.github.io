@@ -49,7 +49,7 @@
 
 ### Urban Engineering
 
-[Geotech Police](https://github.com/mv1742/Geo_Police/)
+[Geotech Police](https://github.com/mv1742/GeoPolice/)
 
 <img src= "https://raw.githubusercontent.com/mv1742/GEOPolice/master/Figs/GeoPolice.png">
 
