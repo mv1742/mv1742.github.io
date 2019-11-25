@@ -16,6 +16,18 @@
 
 ---
 
+[Semi-supervised learning architecture for a classification task of 1000 classes](https://towardsdatascience.com/learning-like-babies-image-classification-using-semi-supervised-learning-ccfb5b391d1f)
+
+<img src="https://github.com/mv1742/DLFinalProject/blob/master/plots/vis_rot.png?raw=true" height="300">
+
+---
+
+[Deep learning sentiment analysis of ethnic groups through Twitter](https://www.overleaf.com/read/yhvvshpgcsbk)
+
+<img src="https://github.com/mv1742/NLP_Twitter_Sentiment/blob/master/plots/Moving_Average.png?raw=true" width="450" height="250">
+
+---
+
 [Analysis of L-Train shutdown effect on Citibike trips in North Brooklyn](https://www.authorea.com/343291/WvCJMi1pNDL6i1gUT_rstw)
 
 <img src="https://raw.githubusercontent.com/mv1742/PUI2018_mv1742/master/Extra_Credit_mv1742/Trains.png" height="300">
@@ -31,18 +43,6 @@
 [Street signs and yellow taxi count and predictions using Computer-Vision image recognition](https://github.com/Streets-Data-Collaborative/groundwork-detection)
 
 <img src="https://raw.githubusercontent.com/mv1742/groundwork-detection/master/Taxis.jpeg" height="200">
-
----
-
-[Deep learning sentiment analysis of ethnic groups through Twitter](https://www.overleaf.com/read/yhvvshpgcsbk)
-
-<img src="https://github.com/mv1742/NLP_Twitter_Sentiment/blob/master/plots/Moving_Average.png?raw=true" width="450" height="250">
-
----
-
-[Semi-supervised learning architecture for a classification task of 1000 classes](https://towardsdatascience.com/learning-like-babies-image-classification-using-semi-supervised-learning-ccfb5b391d1f)
-
-<img src="https://github.com/mv1742/DLFinalProject/blob/master/plots/vis_rot.png?raw=true" height="300">
 
 ---
 
